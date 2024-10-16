@@ -1,0 +1,12 @@
+
+fun foo()
+{
+  int x = 4 + 7 ;
+  return 9 + x;
+} 
+
+fun main()
+{
+ return foo();
+}
+
