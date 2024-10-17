@@ -1,4 +1,4 @@
-module DOIT
+module PEANO
   imports INT
   imports BOOL
 
